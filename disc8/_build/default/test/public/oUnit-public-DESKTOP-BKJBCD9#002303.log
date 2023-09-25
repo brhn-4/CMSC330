@@ -1,0 +1,15 @@
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#03 I: Start test public:2:lex_one_plus_two.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#03 I: Test public:2:lex_one_plus_two is successful.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#03 I: End test public:2:lex_one_plus_two.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#03 I: Start test public:4:long_lexer_1.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#03 I: Test public:4:long_lexer_1 is successful.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#03 I: End test public:4:long_lexer_1.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#03 I: Start test public:7:long_lexer_4.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#03 I: Test public:7:long_lexer_4 is successful.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#03 I: End test public:7:long_lexer_4.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#03 I: Start test public:10:parse_one_times_two.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#03 I: Test public:10:parse_one_times_two is successful.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#03 I: End test public:10:parse_one_times_two.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#03 I: Start test public:13:long_parser_3.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#03 I: Test public:13:long_parser_3 is successful.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#03 I: End test public:13:long_parser_3.

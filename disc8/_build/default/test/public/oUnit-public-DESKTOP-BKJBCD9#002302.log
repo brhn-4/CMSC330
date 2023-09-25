@@ -1,0 +1,15 @@
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#02 I: Start test public:1:lex_one.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#02 I: Test public:1:lex_one is successful.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#02 I: End test public:1:lex_one.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#02 I: Start test public:5:long_lexer_2.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#02 I: Test public:5:long_lexer_2 is successful.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#02 I: End test public:5:long_lexer_2.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#02 I: Start test public:9:parse_one_plus_two.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#02 I: Test public:9:parse_one_plus_two is successful.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#02 I: End test public:9:parse_one_plus_two.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#02 I: Start test public:11:long_parser_1.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#02 I: Test public:11:long_parser_1 is successful.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#02 I: End test public:11:long_parser_1.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#02 I: Start test public:15:right_associative.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#02 I: Test public:15:right_associative is successful.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#02 I: End test public:15:right_associative.

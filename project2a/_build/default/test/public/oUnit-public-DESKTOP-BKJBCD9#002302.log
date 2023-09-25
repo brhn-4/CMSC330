@@ -1,0 +1,9 @@
+2020-09-25T21:42:39+00:00 DESKTOP-BKJBCD9#02 I: Start test public:1:abs.
+2020-09-25T21:42:39+00:00 DESKTOP-BKJBCD9#02 I: Test public:1:abs is successful.
+2020-09-25T21:42:39+00:00 DESKTOP-BKJBCD9#02 I: End test public:1:abs.
+2020-09-25T21:42:39+00:00 DESKTOP-BKJBCD9#02 I: Start test public:4:factorial.
+2020-09-25T21:42:39+00:00 DESKTOP-BKJBCD9#02 I: Test public:4:factorial is successful.
+2020-09-25T21:42:39+00:00 DESKTOP-BKJBCD9#02 I: End test public:4:factorial.
+2020-09-25T21:42:39+00:00 DESKTOP-BKJBCD9#02 I: Start test public:12:combine.
+2020-09-25T21:42:39+00:00 DESKTOP-BKJBCD9#02 I: Test public:12:combine is successful.
+2020-09-25T21:42:39+00:00 DESKTOP-BKJBCD9#02 I: End test public:12:combine.

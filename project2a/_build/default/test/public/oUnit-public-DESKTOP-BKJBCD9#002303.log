@@ -1,0 +1,12 @@
+2020-09-25T21:42:39+00:00 DESKTOP-BKJBCD9#03 I: Start test public:2:area.
+2020-09-25T21:42:39+00:00 DESKTOP-BKJBCD9#03 I: Test public:2:area is successful.
+2020-09-25T21:42:39+00:00 DESKTOP-BKJBCD9#03 I: End test public:2:area.
+2020-09-25T21:42:39+00:00 DESKTOP-BKJBCD9#03 I: Start test public:7:is_prime.
+2020-09-25T21:42:39+00:00 DESKTOP-BKJBCD9#03 I: Test public:7:is_prime is successful.
+2020-09-25T21:42:39+00:00 DESKTOP-BKJBCD9#03 I: End test public:7:is_prime.
+2020-09-25T21:42:39+00:00 DESKTOP-BKJBCD9#03 I: Start test public:8:next_prime.
+2020-09-25T21:42:39+00:00 DESKTOP-BKJBCD9#03 I: Test public:8:next_prime is successful.
+2020-09-25T21:42:39+00:00 DESKTOP-BKJBCD9#03 I: End test public:8:next_prime.
+2020-09-25T21:42:39+00:00 DESKTOP-BKJBCD9#03 I: Start test public:11:reverse.
+2020-09-25T21:42:39+00:00 DESKTOP-BKJBCD9#03 I: Test public:11:reverse is successful.
+2020-09-25T21:42:39+00:00 DESKTOP-BKJBCD9#03 I: End test public:11:reverse.

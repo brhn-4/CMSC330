@@ -1,0 +1,9 @@
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#04 I: Start test public:3:lex_one_times_two.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#04 I: Test public:3:lex_one_times_two is successful.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#04 I: End test public:3:lex_one_times_two.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#04 I: Start test public:12:long_parser_2.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#04 I: Test public:12:long_parser_2 is successful.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#04 I: End test public:12:long_parser_2.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#04 I: Start test public:16:parentheses.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#04 I: Test public:16:parentheses is successful.
+2020-10-30T19:48:42+00:00 DESKTOP-BKJBCD9#04 I: End test public:16:parentheses.
