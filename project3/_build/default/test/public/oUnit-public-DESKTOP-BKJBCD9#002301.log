@@ -1,0 +1,9 @@
+2020-10-27T03:22:48+00:00 DESKTOP-BKJBCD9#01 I: Start test public:0:nfa_accept.
+2020-10-27T03:22:48+00:00 DESKTOP-BKJBCD9#01 I: Test public:0:nfa_accept is successful.
+2020-10-27T03:22:48+00:00 DESKTOP-BKJBCD9#01 I: End test public:0:nfa_accept.
+2020-10-27T03:22:48+00:00 DESKTOP-BKJBCD9#01 I: Start test public:6:nfa_new_states.
+2020-10-27T03:22:48+00:00 DESKTOP-BKJBCD9#01 I: Test public:6:nfa_new_states is successful.
+2020-10-27T03:22:48+00:00 DESKTOP-BKJBCD9#01 I: End test public:6:nfa_new_states.
+2020-10-27T03:22:48+00:00 DESKTOP-BKJBCD9#01 I: Start test public:7:nfa_new_trans.
+2020-10-27T03:22:48+00:00 DESKTOP-BKJBCD9#01 I: Test public:7:nfa_new_trans is successful.
+2020-10-27T03:22:48+00:00 DESKTOP-BKJBCD9#01 I: End test public:7:nfa_new_trans.
