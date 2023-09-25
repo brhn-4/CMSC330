@@ -1,0 +1,27 @@
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: Start test public:1:public_expr_ops.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: Test public:1:public_expr_ops is successful.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: End test public:1:public_expr_ops.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: Start test public:4:public_stmt_control.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: Test public:4:public_stmt_control is successful.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: End test public:4:public_stmt_control.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: Start test public:7:public_assign_1.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: Test public:7:public_assign_1 is successful.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: End test public:7:public_assign_1.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: Start test public:9:public_assign_exp.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: Test public:9:public_assign_exp is successful.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: End test public:9:public_assign_exp.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: Start test public:11:public_equal.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: Test public:11:public_equal is successful.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: End test public:11:public_equal.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: Start test public:14:public_exp_2.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: Test public:14:public_exp_2 is successful.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: End test public:14:public_exp_2.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: Start test public:21:public_nested_while.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: Test public:21:public_nested_while is successful.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: End test public:21:public_nested_while.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: Start test public:22:public_main.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: Test public:22:public_main is successful.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: End test public:22:public_main.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: Start test public:26:public_stmt_fail_basic.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: Test public:26:public_stmt_fail_basic is successful.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#02 I: End test public:26:public_stmt_fail_basic.

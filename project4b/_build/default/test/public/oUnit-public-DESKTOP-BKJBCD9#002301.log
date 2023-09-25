@@ -1,0 +1,18 @@
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#01 I: Start test public:0:public_expr_basic.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#01 I: Test public:0:public_expr_basic is successful.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#01 I: End test public:0:public_expr_basic.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#01 I: Start test public:5:public_define_1.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#01 I: Test public:5:public_define_1 is successful.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#01 I: End test public:5:public_define_1.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#01 I: Start test public:12:public_less.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#01 I: Test public:12:public_less is successful.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#01 I: End test public:12:public_less.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#01 I: Start test public:16:public_ifelse.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#01 I: Test public:16:public_ifelse is successful.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#01 I: End test public:16:public_ifelse.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#01 I: Start test public:19:public_for.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#01 I: Test public:19:public_for is successful.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#01 I: End test public:19:public_for.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#01 I: Start test public:23:public_test_1.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#01 I: Test public:23:public_test_1 is successful.
+2020-11-20T19:51:19+00:00 DESKTOP-BKJBCD9#01 I: End test public:23:public_test_1.
