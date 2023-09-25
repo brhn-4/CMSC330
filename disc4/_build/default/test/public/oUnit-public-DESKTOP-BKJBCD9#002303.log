@@ -1,0 +1,11 @@
+2020-09-28T18:21:08+00:00 DESKTOP-BKJBCD9#03 I: Start test public:2:update_database.
+2020-09-28T18:21:08+00:00 DESKTOP-BKJBCD9#03 I: Test public:2:update_database is successful.
+2020-09-28T18:21:08+00:00 DESKTOP-BKJBCD9#03 I: End test public:2:update_database.
+2020-09-28T18:21:08+00:00 DESKTOP-BKJBCD9#03 I: Start test public:4:stalin_sort_right.
+2020-09-28T18:21:08+00:00 DESKTOP-BKJBCD9#03 E: Test public:4:stalin_sort_right has failed.
+2020-09-28T18:21:08+00:00 DESKTOP-BKJBCD9#03 E: not equal in test public:4:stalin_sort_right.
+2020-09-28T18:21:08+00:00 DESKTOP-BKJBCD9#03 E: Raised at OUnitAssert.assert_failure in file "src/lib/ounit2/advanced/oUnitAssert.ml", line 45, characters 2-27
+2020-09-28T18:21:08+00:00 DESKTOP-BKJBCD9#03 E: Called from Dune__exe__Public.test_stalin_sort_right in file "test/public/public.ml", line 27, characters 4-60
+2020-09-28T18:21:08+00:00 DESKTOP-BKJBCD9#03 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2020-09-28T18:21:08+00:00 DESKTOP-BKJBCD9#03 E: 
+2020-09-28T18:21:08+00:00 DESKTOP-BKJBCD9#03 I: End test public:4:stalin_sort_right.
